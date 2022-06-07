@@ -1,0 +1,6 @@
+x=int("4")
+y=int("8")
+z=str(x*y)
+print("The first number is "+ str(x))
+print("The second number is "+ str(y))
+print("The output number is "+ z)
